@@ -10,12 +10,20 @@ The code for the paper "Maximizing Innovation Performance in Technology Acquisit
 
 ## 2. Dependencies
 
-numpy == 1.26.4
+numpy == 1.26.4   
+
 pandas == 2.2.2
+
 sklearn == 1.5.0
+
 xgboost == 2.0.3
+
 catboost == 1.2.5
+
 AdaBoost (sklearn) == 1.5.0
+
 GBRT (sklearn) == 1.5.0
+
 Random Forest (sklearn) == 1.5.0
+
 Extra Trees (sklearn) == 1.5.0
