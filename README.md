@@ -1,4 +1,4 @@
-# Paper-code
+# InnovAcq-ML
 ## 1. Overview
 
 The code for the paper "Maximizing Innovation Performance in Technology Acquisitions through Ensemble Learning and Metaheuristic Algorithms". The repository is organized as follows:
